@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<title>spaceship</title>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="title" content="spaceship">
+<meta name="description" content="Action game like a classic arcade">
+<link rel="icon" type="image/png" href="ship.png"> 
+<link rel="stylesheet" type="text/css" href="style.css"> 
+<!--<link rel="manifest" href="manifest.manifest">-->
+</head>
+<body onload="">
+<div class="maindiv" id="maindiv">
+<div class="canvasdiv" id="canvasdiv">
+<canvas class="canvas"id="canvas" width="640" height="480">
+Your web browser does not support canvas.
+</canvas>
+</div>
+</div><!-- maindiv -->
+<footer><!-- cookies policy, license --></footer>
+</body>
+<script type="text/javascript" src="main.js"></script>
+</html>
